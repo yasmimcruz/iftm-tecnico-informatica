@@ -1,1 +1,2 @@
 teste comando git checkout -b
+teste comando git pull
